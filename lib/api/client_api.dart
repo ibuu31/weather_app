@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:weather_app/weather_model.dart';
+import 'package:weather_app/api/weather_model.dart';
 
 class WeatherClientApi {
   Future<WeatherModel> requestApi() async {

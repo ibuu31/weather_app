@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/weather_screen.dart';
+import 'package:weather_app/screens/weather_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +19,12 @@ class MyHomePage extends StatelessWidget {
   const MyHomePage({
     super.key,
   });
-  
+
+  ///Todo Push Notification of current weather.
+  ///Todo Adsense.
+  ///Todo Connect to Iphone
+  ///Todo Custom Widget
+  ///Todo
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
