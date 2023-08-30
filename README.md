@@ -1,5 +1,2 @@
 
-![ScreenShot](https://raw.github.com/ibuu31/weather_app/master/C:\Users\91760\Pictures\screenshot_image\Screenshot_1.png)
-
-![Screenshot](Screenshot_1.png)
-
+![Screenshot_1](https://github.com/ibuu31/weather_app/assets/94115128/f884ce32-1e42-4521-90fa-e7e1302ccd6b)
